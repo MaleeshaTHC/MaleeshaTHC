@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MaleeshaTHC
+- 👋 Hi, I’m Maleesha..
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning python, java, javaScript, HTML, CSS
 - 📫 How to reach me thcmaleesha@gmail.com
